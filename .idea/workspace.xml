@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c310f6b-90f3-41c9-9395-6b22cfd8f9bb" name="Default Changelist" comment="Глава 14">
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+    <list default="true" id="7c310f6b-90f3-41c9-9395-6b22cfd8f9bb" name="Default Changelist" comment="Глава 14_">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/alien_invasion.spec" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -234,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622231041194</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Глава 14_">
+      <created>1622231759352</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1622231759352</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +268,7 @@
     <MESSAGE value="Глава 13" />
     <MESSAGE value="Глава 13_" />
     <MESSAGE value="Глава 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Глава 14" />
+    <MESSAGE value="Глава 14_" />
+    <option name="LAST_COMMIT_MESSAGE" value="Глава 14_" />
   </component>
 </project>
